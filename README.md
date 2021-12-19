@@ -1,2 +1,0 @@
-# news-letter
-first commit
